@@ -2,11 +2,19 @@
 # Gun_Incidents_Analysis
 
 This project aims to analyze gun incidents throughout the United States. 
+
 There is two part to the analysis. The First part is the geographic analysis, and the second is the time analysis.
 
 # Dataset Introduction
 
-columns(7): ncident_id(incident unique identifier), date(recorded date of incident), state(US state in which the incident took place), city(city within the state where the incident took place), address(street address where the incident took place), n_killed(number of persons killed during incident), n_injured(number of persons injured during incident)
+columns(7): 
+ncident_id(incident unique identifier)
+date(recorded date of incident)
+state(US state in which the incident took place)
+city(city within the state where the incident took place)
+address(street address where the incident took place)
+n_killed(number of persons killed during incident)
+n_injured(number of persons injured during incident)
 
 source:https://www.kaggle.com/datasets/emmanuelfwerr/gun-violence-incidents-in-the-usa
 
