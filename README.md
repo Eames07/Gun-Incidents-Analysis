@@ -23,7 +23,7 @@ Columns(7):
 
 - n_injured(number of persons injured during incident)
 
-Time span of the data: from 2013-2022
+Time span of the data: 2013-2022
 
 Source:https://www.kaggle.com/datasets/emmanuelfwerr/gun-violence-incidents-in-the-usa
 
