@@ -9,7 +9,6 @@ There is two part to the analysis. The First part is the geographic analysis, an
 
 Columns(7): 
 
-
 - ncident_id(incident unique identifier)
 
 - date(recorded date of incident)
