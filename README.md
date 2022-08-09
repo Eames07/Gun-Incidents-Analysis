@@ -25,6 +25,7 @@ Columns(7):
 
 Time span of the data: 2013-2022
 
+
 Source:https://www.kaggle.com/datasets/emmanuelfwerr/gun-violence-incidents-in-the-usa
 
 Link for this work in my kaggle: https://www.kaggle.com/code/eames07/gun-incidents-usa-eda-data-visualization
